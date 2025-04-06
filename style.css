@@ -146,6 +146,7 @@ body {
     font-size: 20px;
     gap: 20px;
     cursor: pointer;
+
 }
 
 .container-3__search {
@@ -400,9 +401,7 @@ body {
     height: 300px;
     display: flex;
     gap: 20px;
-    overflow-x: scroll;
-    scroll-behavior: smooth;
-    scrollbar-width: none;
+
 }
 
 .container-5__img img {
@@ -1247,5 +1246,75 @@ body {
 
     .footer-2 {
         display: block;
+    }
+
+    .container-3 {
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+        width: 100%;
+    }
+
+    .container-5_img img {
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+        width: 100%;
+    }
+
+    .container-6__recom__card img {
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+
+    }
+
+    .container-7__recom__card img {
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+
+    }
+
+    .container-8__recom__card img {
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+    }
+
+    .container-9__img1,
+    .container-9__img2,
+    .container-9__img3,
+    .container-9__img4 {
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+
+    }
+
+    .container-10__img1,
+    .container-10__img2,
+    .container-10__img3,
+    .container-10__img4  {
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+    }
+
+    .container-11__img1,
+    .container-11__img2,
+    .container-11__img3,
+    .container-11__img4  {
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+    }
+
+    .container-14__desc__img1,
+    .container-14__desc__img2,
+    .container-14__desc__img3 {
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
     }
 }
