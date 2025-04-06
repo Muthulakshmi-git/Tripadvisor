@@ -400,7 +400,9 @@ body {
     height: 300px;
     display: flex;
     gap: 20px;
-
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
 }
 
 .container-5__img img {
