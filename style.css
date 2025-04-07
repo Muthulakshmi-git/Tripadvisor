@@ -8,13 +8,13 @@ body {
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-
+    width: 100%;
 }
 
 .container-1 {
     background-color: white;
     color: black;
-    width: 100%;
+    width: 95%;
     display: flex;
     justify-content: space-between;
     padding: 10px;
@@ -132,6 +132,7 @@ body {
     font-size: 30px;
     border-top: solid white 2px;
     margin: 50px;
+    width: 100%;
 }
 
 .container-3 img {
@@ -146,6 +147,8 @@ body {
     font-size: 20px;
     gap: 20px;
     cursor: pointer;
+    width: fit-content;
+    margin-left: 190px;
 
 }
 
@@ -273,8 +276,6 @@ body {
 }
 
 .searchbar-2 {
-
-
     border-radius: 20px;
     display: flex;
     margin-left: 50px;
@@ -327,10 +328,11 @@ body {
     margin-left: 50px;
     margin-top: 30px;
     position: relative;
+    width: 90%;
 }
 
 .container-4__img {
-    width: 1200px;
+    width: 1100px;
     border-radius: 20px;
 
 }
@@ -386,9 +388,9 @@ body {
 }
 
 .container-5 {
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 40px;
-
+    width: fit-content;
 }
 
 .container-5 p {
@@ -397,8 +399,8 @@ body {
 
 .container-5__img {
     padding-top: 30px;
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
     display: flex;
     gap: 20px;
 
@@ -415,8 +417,9 @@ body {
 }
 
 .container-6 {
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 40px;
+    width: fit-content;
 }
 
 .container-6 p {
@@ -431,7 +434,7 @@ body {
 }
 
 .container-6__recom__card img {
-    width: 300px;
+    width: 285px;
     height: 250px;
     padding-bottom: 10px;
     border-radius: 20px;
@@ -461,9 +464,10 @@ body {
 }
 
 .container-7 {
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 40px;
     padding-bottom: 30px;
+    width: 90%;
 
 }
 
@@ -474,12 +478,12 @@ body {
 .container-7__recom {
     padding-top: 30px;
     display: flex;
-    gap: 20px;
+    gap: 10px;
 
 }
 
 .container-7__recom__card img {
-    width: 300px;
+    width: 285px;
     height: 250px;
     padding-bottom: 10px;
     border-radius: 20px;
@@ -494,15 +498,15 @@ body {
 }
 
 .container-8 {
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 40px;
     background-color: #F2F1EC;
-    width: 1270px;
+    width: 90%;
 }
 
 .container-8__recom {
     display: flex;
-    gap: 100px;
+    gap: 50px;
     width: 700px;
     height: 350px;
 
@@ -510,7 +514,7 @@ body {
 }
 
 .container-8__recom__card img {
-    width: 350px;
+    width: 300px;
     height: 200px;
     padding-top: 20px;
     cursor: pointer;
@@ -527,10 +531,10 @@ body {
 }
 
 .container-9 {
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 40px;
     position: relative;
-
+    width: fit-content;
 }
 
 .container-9 h4 {
@@ -539,8 +543,8 @@ body {
 
 .container-9__img {
     padding-top: 30px;
-    width: 300px;
-    height: 300px;
+    width: 270px;
+    height: 270px;
     display: flex;
     gap: 20px;
 
@@ -567,25 +571,25 @@ body {
 .container-9__img1__name1 {
     position: absolute;
     bottom: 20px;
-    left: 80px;
+    left: 20px;
 }
 
 .container-9__img2__name2 {
     position: absolute;
     bottom: 20px;
-    left: 390px;
+    left: 320px;
 }
 
 .container-9__img3__name3 {
     position: absolute;
     bottom: 20px;
-    left: 700px;
+    left: 610px;
 }
 
 .container-9__img4__name4 {
     position: absolute;
     bottom: 20px;
-    left: 995px;
+    left: 890px;
 
 }
 
@@ -594,10 +598,10 @@ body {
 }
 
 .container-10 {
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 40px;
     position: relative;
-
+    width: fit-content;
 }
 
 .container-10 h2 {
@@ -606,8 +610,8 @@ body {
 
 .container-10__img {
     padding-top: 30px;
-    width: 300px;
-    height: 300px;
+    width: 270px;
+    height: 270px;
     display: flex;
     gap: 20px;
 
@@ -634,25 +638,25 @@ body {
 .container-10__img1__name1 {
     position: absolute;
     bottom: 20px;
-    left: 80px;
+    left: 40px;
 }
 
 .container-10__img2__name2 {
     position: absolute;
     bottom: 20px;
-    left: 390px;
+    left: 350px;
 }
 
 .container-10__img3__name3 {
     position: absolute;
     bottom: 20px;
-    left: 700px;
+    left: 630px;
 }
 
 .container-10__img4__name4 {
     position: absolute;
     bottom: 20px;
-    left: 995px;
+    left: 890px;
 
 }
 
@@ -661,10 +665,10 @@ body {
 }
 
 .container-11 {
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 40px;
     position: relative;
-
+    width: fit-content;
 }
 
 .container-11 p {
@@ -673,8 +677,8 @@ body {
 
 .container-11__img {
     padding-top: 30px;
-    width: 300px;
-    height: 300px;
+    width: 270px;
+    height: 270px;
     display: flex;
     gap: 20px;
 
@@ -701,25 +705,25 @@ body {
 .container-11__img1__name1 {
     position: absolute;
     bottom: 20px;
-    left: 60px;
+    left: 30px;
 }
 
 .container-11__img2__name2 {
     position: absolute;
     bottom: 20px;
-    left: 350px;
+    left: 300px;
 }
 
 .container-11__img3__name3 {
     position: absolute;
     bottom: 20px;
-    left: 700px;
+    left: 620px;
 }
 
 .container-11__img4__name4 {
     position: absolute;
     bottom: 20px;
-    left: 995px;
+    left: 900px;
 }
 
 .container-11__img__desc {
@@ -727,12 +731,13 @@ body {
 }
 
 .container-12 {
-    margin-left: 30px;
+    margin-left: 10px;
     margin-top: 20px;
     background-color: #F2ECF9;
     display: flex;
     position: relative;
     height: 500px;
+    width: 90%;
 }
 
 .container-12 img {
@@ -815,8 +820,9 @@ body {
 }
 
 .container-13 {
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 20px;
+    width: 90%;
 }
 
 .container-13__desc {
@@ -827,7 +833,7 @@ body {
 }
 
 .container-13__desc img {
-    width: 300px;
+    width: 250px;
     height: 300px;
     border-radius: 20px;
     cursor: pointer;
@@ -839,9 +845,10 @@ body {
 }
 
 .container-14 {
-    padding-left: 30px;
+    padding-left: 10px;
     padding-top: 20px;
     display: none;
+    width: fit-content;
 }
 
 .container-14 p {
@@ -873,6 +880,7 @@ body {
     padding-left: 30px;
     padding-top: 70px;
     position: relative;
+    width: 90%;
 }
 
 .container-15__img {
@@ -915,12 +923,13 @@ body {
     background-color: #F2F2F2;
     margin-top: 30px;
     padding-top: 30px;
+    width: 90%;
 }
 
 .footer-1__container-1 {
     display: flex;
     justify-content: space-around;
-    width: 1000px;
+    width: 1100px;
     height: 350px;
     padding-left: 10px;
 }
