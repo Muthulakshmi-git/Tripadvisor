@@ -1179,7 +1179,24 @@ html {
         padding-left: 0;
         font-size: 16px;
     }
-
+    .container-5{
+        font-size: 13px;
+    }
+    .container-6{
+        font-size: 13px;
+    }
+    .container-7{
+        font-size: 13px;
+    }
+    .container-10{
+        font-size: 13px;
+    }
+    .container-11{
+        font-size: 13px;
+    }
+    .container-13{
+        font-size: 13px;
+    }
     .container-12 {
         display: block;
         height: 90%;
