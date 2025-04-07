@@ -1269,22 +1269,45 @@ body {
     .container-5__img {
         overflow-x: scroll;
         scroll-behavior: smooth;
-        scrollbar-width: none;
+        width: 40%;
+    }
+
+    .container-6__recom{
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        width: 40%;
+        border-bottom: none;
+    }
+
+    .container-7__recom{
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        width: 110%;
+    }
+    .container-8__recom{
+        overflow-x: scroll;
+        scroll-behavior: smooth;
         width: 100%;
     }
-
-    .container-6__recom__card img{
+    .container-9__img{
         overflow-x: scroll;
         scroll-behavior: smooth;
-        scrollbar-width: none;
-        
+        width: 42%;
     }
-
-    .container-7__recom__card img {
+    .container-10__img{
         overflow-x: scroll;
         scroll-behavior: smooth;
-        scrollbar-width: none;
-        
+        width: 42%;
+    }
+    .container-11__img{
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        width: 42%;
+    }
+    .container-14__desc{
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+        width: 39%;
     }
 
     
