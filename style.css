@@ -1261,66 +1261,22 @@ body {
         overflow-x: scroll;
         scroll-behavior: smooth;
         scrollbar-width: none;
-        width: fit-content;
+        width: 100%;
     }
 
     .container-6__recom__card img{
         overflow-x: scroll;
         scroll-behavior: smooth;
         scrollbar-width: none;
-        width: fit-content;
+        
     }
 
     .container-7__recom__card img {
         overflow-x: scroll;
         scroll-behavior: smooth;
         scrollbar-width: none;
-        width: 300px;
+        
     }
 
-    .container-8__recom__card img {
-        overflow-x: scroll;
-        scroll-behavior: smooth;
-        scrollbar-width: none;
-    }
-
-    .container-9__img1,
-    .container-9__img2,
-    .container-9__img3,
-    .container-9__img4 {
-        overflow-x: scroll;
-        scroll-behavior: smooth;
-        scrollbar-width: none;
-
-    }
-
-    .container-10__img1,
-    .container-10__img2,
-    .container-10__img3,
-    .container-10__img4  {
-        overflow-x: scroll;
-        scroll-behavior: smooth;
-        scrollbar-width: none;
-    }
-
-    .container-11__img1,
-    .container-11__img2,
-    .container-11__img3,
-    .container-11__img4  {
-        overflow-x: scroll;
-        scroll-behavior: smooth;
-        scrollbar-width: none;
-    }
-
-    .container-14__desc__img1,
-    .container-14__desc__img2,
-    .container-14__desc__img3 {
-        overflow-x: scroll;
-        scroll-behavior: smooth;
-        scrollbar-width: none;
-    }
-    .img{
-        overflow-x: scroll;
-        scroll-behavior: smooth;
-    }
+    
 }
