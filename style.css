@@ -3,12 +3,17 @@
     margin: 0;
 }
 
-body {
+body{body,
+html {
     font-family: "Gabarito", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
     width: 100%;
+    overflow-x: hidden;
+    text-align: center;
+    width: 100vw;
+}
 }
 
 .container-1 {
@@ -232,7 +237,7 @@ body {
 
 }
 
-.searchbar{
+.searchbar {
     border: none;
     border-radius: 40px;
     background-color: white;
@@ -1225,7 +1230,7 @@ body {
 
     .container-15__desc {
         position: absolute;
-        right: 50px;
+        right: 30px;
         top: 5px;
     }
 
@@ -1263,52 +1268,59 @@ body {
         gap: 8px;
         margin-left: 3px;
     }
-    .container-4{
+
+    .container-4 {
         margin-left: 10px;
     }
+
     .container-5__img {
         overflow-x: scroll;
         scroll-behavior: smooth;
         width: 40%;
     }
 
-    .container-6__recom{
+    .container-6__recom {
         overflow-x: scroll;
         scroll-behavior: smooth;
         width: 40%;
         border-bottom: none;
     }
 
-    .container-7__recom{
+    .container-7__recom {
         overflow-x: scroll;
         scroll-behavior: smooth;
         width: 110%;
     }
-    .container-8__recom{
+
+    .container-8__recom {
         overflow-x: scroll;
         scroll-behavior: smooth;
         width: 100%;
     }
-    .container-9__img{
+
+    .container-9__img {
         overflow-x: scroll;
         scroll-behavior: smooth;
         width: 42%;
     }
-    .container-10__img{
+
+    .container-10__img {
         overflow-x: scroll;
         scroll-behavior: smooth;
         width: 42%;
     }
-    .container-11__img{
+
+    .container-11__img {
         overflow-x: scroll;
         scroll-behavior: smooth;
         width: 42%;
     }
-    .container-14__desc{
+
+    .container-14__desc {
         overflow-x: scroll;
         scroll-behavior: smooth;
         width: 39%;
     }
 
-    
+
 }
