@@ -429,13 +429,9 @@ body {
     gap: 20px;
     width: 300px;
 }
-.container-6__recom__card {
-   width: 300px;
-   padding: 10px;
-}
 
 .container-6__recom__card img {
-   
+    width: 300px;
     height: 250px;
     padding-bottom: 10px;
     border-radius: 20px;
@@ -1323,5 +1319,8 @@ body {
         scroll-behavior: smooth;
         scrollbar-width: none;
     }
-
+    .img{
+        overflow-x: scroll;
+        scroll-behavior: smooth;
+    }
 }
