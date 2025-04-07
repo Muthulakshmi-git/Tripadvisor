@@ -229,7 +229,7 @@ body {
 
 }
 
-.searchbar {
+.searchbar{
     border: none;
     border-radius: 40px;
     background-color: white;
@@ -417,8 +417,6 @@ body {
 .container-6 {
     padding-left: 30px;
     padding-top: 40px;
-
-
 }
 
 .container-6 p {
@@ -429,11 +427,15 @@ body {
     padding-top: 30px;
     display: flex;
     gap: 20px;
-
+    width: 300px;
+}
+.container-6__recom__card {
+   width: 300px;
+   padding: 10px;
 }
 
 .container-6__recom__card img {
-    width: 300px;
+   
     height: 250px;
     padding-bottom: 10px;
     border-radius: 20px;
@@ -1253,27 +1255,31 @@ body {
         scroll-behavior: smooth;
         scrollbar-width: none;
         width: 100%;
+        gap: 8px;
+        margin-left: 3px;
     }
-
-    .container-5_img img {
+    .container-4{
+        margin-left: 10px;
+    }
+    .container-5__img {
         overflow-x: scroll;
         scroll-behavior: smooth;
         scrollbar-width: none;
-        width: 100%;
+        width: fit-content;
     }
 
-    .container-6__recom__card img {
+    .container-6__recom__card img{
         overflow-x: scroll;
         scroll-behavior: smooth;
         scrollbar-width: none;
-
+        width: fit-content;
     }
 
     .container-7__recom__card img {
         overflow-x: scroll;
         scroll-behavior: smooth;
         scrollbar-width: none;
-
+        width: 300px;
     }
 
     .container-8__recom__card img {
@@ -1317,4 +1323,5 @@ body {
         scroll-behavior: smooth;
         scrollbar-width: none;
     }
+
 }
